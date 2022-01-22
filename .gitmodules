@@ -1,15 +1,12 @@
 [submodule "third_party/fpnew"]
 	path = third_party/fpnew
-	url  = https://gitee.com/taylor1997/fpnew
-
+	url = https://github.com/pulp-platform/fpnew.git
 [submodule "third_party/softfloat"]
 	path = third_party/softfloat
-	url  = https://gitee.com/gaoqihang/berkeley-softfloat-3.git
-
+	url = https://github.com/ucb-bar/berkeley-softfloat-3.git
 [submodule "third_party/cocogfx"]
 	path = third_party/cocogfx
-	url  = https://gitee.com/taylor1997/cocogfx.git
-
+	url = https://github.com/gtcasl/cocogfx.git
 [submodule "third_party/ramulator"]
 	path = third_party/ramulator
-	url  = https://gitee.com/taylor1997/ramulator.git
+	url = https://github.com/CMU-SAFARI/ramulator.git
